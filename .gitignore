@@ -1,0 +1,30 @@
+# Others #
+##########
+venv/bin/
+tmp/
+*.tmp
+*.bak
+.factorypath
+.sts4-cache/
+reports/
+
+# Environments
+.env
+venv/
+env/
+venv/bin
+venv/lib
+venv
+
+#Pytest
+.pytest_cache/
+.__pycache__/
+__pycache__/
+
+.pytest_cache
+.__pycache__
+
+*/pytest_cache/
+*/__pycache__/
+
+.DS_Store
