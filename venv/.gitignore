@@ -67,9 +67,7 @@ reports/
 */junit.xml
 .terraform/
 
-# JaCoCo #
-*.exec
-jacococli.jar
+
 
 # Environments
 .env
@@ -79,6 +77,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv/bin/
+venv/lib/
 
 # Allure report
 allure-report
